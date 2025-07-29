@@ -14,7 +14,9 @@ import ThemeIcon from "./ThemeIcon.astro";
   userData.map((data) => (
     <>
       <h1>{data.userName}</h1>
+      <div style="text-align: center; white-space: pre-line;">
       <p>{data.userDesc}</p>
+      </div>
     </>
   ))
 }
