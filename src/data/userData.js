@@ -40,20 +40,15 @@ const socialLinks = [
 
 const userLinks = [
     {
-        title: "Portfolio",
-        link:"https://itssofi.dev/",
+        title: "Catalogo de Suplementos",
+        link:"https://wa.me/c/5214272032772 ",
         icon:"ant-design:code-filled"
     },
     {
-        title: "Sucríbete a mi canal",
-        link:"https://www.youtube.com/channel/UC36_js-krsAHAEAWpEDhHtw",
+        title: "Canal de ofertas, tips, información y más!",
+        link:"https://whatsapp.com/channel/0029VbBHy0PBPzjdDwIkch1G",
         icon:"mingcute:youtube-fill"
 
-    },
-    {
-        title: "Únete a Discord",
-        link:"https://discord.com/invite/wjERezH2",
-        icon:"ic:outline-discord"
     },
 ]
 
