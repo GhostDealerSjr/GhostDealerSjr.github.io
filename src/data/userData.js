@@ -14,13 +14,12 @@ const socialLinks = [
   {
     socialName: "Facebook Page",
     socialUl: "#",
-    socialIcon: "fa-brands fa-facebook",
+    socialIcon: "mingcute:facebook-fill",
   },
   {
     socialName: "GitHub",
     socialUl: "https://github.com/SofiDevO/allmylinks",
     socialIcon: "fa6-brands:github-alt",
-    
   },
   {
     socialName: "Instagram",
@@ -51,6 +50,7 @@ const userLinks = [
         icon:"mingcute:youtube-fill"
 
     },
+
 ]
 
 
