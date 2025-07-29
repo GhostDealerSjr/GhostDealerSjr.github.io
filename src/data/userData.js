@@ -1,7 +1,7 @@
 const userData = [
   {
     userName: "Ghost Dealer SJR",
-    userDesc: " 🌟 Bienvenidos a Ghost Dealer SJR 🌟 /n Tu tienda de suplementos confiable con variedad de productos y asesoría personalizada para elegir lo mejor según tus necesidades. /n ¡Todo al mejor precio! 💪¡Te ayudamos a alcanzar tus metas!",
+    userDesc: "🌟 Bienvenidos a Ghost Dealer SJR 🌟\nTu tienda de suplementos confiable con variedad de productos y asesoría personalizada para elegir lo mejor según tus necesidades.\n¡Todo al mejor precio! 💪¡Te ayudamos a alcanzar tus metas!",
     userPic: "/img/profilepicture_ghost.png",
     userPicDark: "/img/pedro_raccon.gif",
   },
