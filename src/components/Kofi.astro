@@ -9,11 +9,11 @@ import "../css/animations.css";
   cofiLink.addEventListener("mouseover", (event) => {
     tooltipMessage.classList.add("tooltip__animation");
     tooltipMessage.classList.remove("tooltipMessage-secondary");
-    tooltipMessage.textContent = "Invítame un café ❤️";
+    tooltipMessage.textContent = ".";
   });
   cofiLink.addEventListener("mouseleave", (event) => {
     tooltipMessage.classList.remove("tooltip__animation");
-    tooltipMessage.textContent = "";
+    tooltipMessage.textContent = ".";
   });
 
   // When the user scrolls down 20px from the top of the document, show the button
@@ -25,12 +25,12 @@ import "../css/animations.css";
     if (document.body.scrollTop > 3 || document.documentElement.scrollTop > 3) {
       tooltipMessage.classList.add("tooltip__animation");
       tooltipMessage.classList.remove("tooltipMessage-secondary");
-      tooltipMessage.textContent = "Invítame un café ❤️";
+      tooltipMessage.textContent = ".";
     } else {
-      tooltipMessage.textContent = "Será la próxima Supongo 🥹";
+      tooltipMessage.textContent = "";
       tooltipMessage.classList.add("tooltipMessage-secondary");
       setTimeout(() => {
-        tooltipMessage.textContent = "";
+        tooltipMessage.textContent = ".";
         tooltipMessage.classList.remove("tooltipMessage-secondary");
         tooltipMessage.classList.remove("tooltip__animation");
       }, 4000);
@@ -45,7 +45,7 @@ import "../css/animations.css";
     target="_blank"
     rel="noopener noreferrer"
   >
-    <img class="kofi__img" src="/img/kofi.webp" alt="kofi-button" />
+    <img class="kofi__img" src="" alt="kofi-button" />
   </a>
   <span class="kofi__tooltip"></span>
 </article>
