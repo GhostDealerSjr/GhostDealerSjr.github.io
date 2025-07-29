@@ -2,7 +2,7 @@ const userData = [
   {
     userName: "Ghost Dealer SJR",
     userDesc: "Lo mejor en suplementos Deportivos",
-    userPic: "https://drive.google.com/file/d/1mPMlC1hDZJcOIpNfkgEXR3-kzx531-uX/view",
+    userPic: "/img/profilepicture_ghost.png",
     userPicDark: "/img/pedro_raccon.gif",
   },
 ];
