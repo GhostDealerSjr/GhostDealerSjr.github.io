@@ -37,7 +37,7 @@ const userLinks = [
     {
         title: "Canal de ofertas, tips, información y más!",
         link:"https://whatsapp.com/channel/0029VbBHy0PBPzjdDwIkch1G",
-        icon:"mingcute:youtube-fill"
+        icon:"mingcute:whatsapp-fill"
 
     },
 
