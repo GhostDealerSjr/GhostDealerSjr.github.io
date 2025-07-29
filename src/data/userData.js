@@ -12,14 +12,15 @@ const userData = [
 
 const socialLinks = [
   {
-    socialName: "LinkedIn",
+    socialName: "Facebook Page",
     socialUl: "#",
-    socialIcon: "mingcute:linkedin-fill",
+    socialIcon: "fa-brands fa-facebook",
   },
   {
     socialName: "GitHub",
     socialUl: "https://github.com/SofiDevO/allmylinks",
     socialIcon: "fa6-brands:github-alt",
+    
   },
   {
     socialName: "Instagram",
