@@ -30,9 +30,9 @@ const socialLinks = [
 
 const userLinks = [
     {
-        title: "Catalogo de Suplementos",
-        link:"https://wa.me/c/5214272032772",
-        icon:"ant-design:code-filled"
+        title: "Tienda Online!",
+        link:"https://take.app/es/ghostsupplementsjr",
+        socialIcon: "shopping_cart_2_fill"
     },
     {
         title: "Canal de ofertas, tips, información y más!",
