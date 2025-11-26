@@ -32,7 +32,7 @@ const userLinks = [
     {
         title: "Tienda Online!",
         link:"https://take.app/es/ghostsupplementsjr",
-        socialIcon: "shopping_cart_2_fill"
+        icon: "mingcute:shopping_cart-fill"
     },
     {
         title: "Canal de ofertas, tips, información y más!",
